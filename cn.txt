@@ -3,7 +3,9 @@ CCTV1「IPV6」,http://[2409:8087:1e03:21::42]:6610/cms001/ch0000009099000000102
 CCTV6「IPV6」,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001188/index.m3u8?love=freedom
 CCTV13「IPV6」,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001328/index.m3u8?love=freedom
 广东卫视「IPV6」,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001032/index.m3u8?love=freedom
-广东珠江,https://php.17186.eu.org/gdtv/web/gdzj.m3u8
+广东珠江,http://223.109.210.41:80/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel65/index.m3u8
+广东民声,http://gmxw.7766.org:808/hls/1/index.m3u8?url=tvzb.com
+
 
 4K,#genre#
 Clarity 4K,https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
