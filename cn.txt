@@ -16,7 +16,7 @@
 阳江公共,https://live.yjtvw.com:8081/live/smil:yjtv2.smil/chunklist_b1152000.m3u8?zguangd
 阳江综合,https://live.yjtvw.com:8081/live/smil:yjtv1.smil/chunklist_b1152000.m3u8?zguangd
 
-IPV6·央视,#genre#
+央视,#genre#
 CCTV1「IPV6」,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001022/index.m3u8?love=freedom
 CCTV2「IPV6」,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001220/index.m3u8?love=freedom
 CCTV3「IPV6」,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001186/index.m3u8?love=freedom
@@ -51,7 +51,7 @@ CETV1「IPV6」,http://[2409:8087:1e03:21::42]:6610/cms001/ch0000009099000000102
 CETV4「IPV6」,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001348/index.m3u8?love=freedom
 CGTV「IPV6」,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001024/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-IPV6·卫视,#genre#
+卫视,#genre#
 湖南卫视「IPV6」,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001026/index.m3u8?love=freedom
 浙江卫视「IPV6」,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001023/index.m3u8?love=freedom
 江苏卫视「IPV6」,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001033/index.m3u8?love=freedom
@@ -79,7 +79,7 @@ IPV6·卫视,#genre#
 三沙卫视「IPV6」,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
 黑龙江卫视「IPV6」,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001031/index.m3u8?love=freedom
 
-IPV6·数字,#genre#
+数字,#genre#
 凤凰香港「IPV6」,http://[2409:8087:2001:20:2800:0:df6e:eb1d]/ott.mobaibox.com/PLTV/3/224/3221228530/1.m3u8
 凤凰中文「IPV6」,http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 凤凰资讯「IPV6」,http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
@@ -173,7 +173,7 @@ iHOT爱院线「IPV6」,http://[2409:8087:7001:20:1000::95]:6610/000000001000/60
 央广购物「IPV6」,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001420/index.m3u8?love=freedom
 东方购物「IPV6」,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001039/index.m3u8?love=freedom
 
-IPV6·地区,#genre#
+地区,#genre#
 「上海」东方影视「IPV6」,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001016/index.m3u8?love=freedom
 「上海」都市「IPV6」,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001015/index.m3u8?love=freedom
 「上海」教育电视台「IPV6」,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001268/index.m3u8?love=freedom
@@ -378,25 +378,7 @@ ViuTV6,http://50.7.238.114:8278/viusix_twn/playlist.m3u8?tid=MD7D995062979950629
 中天娛樂,http://198.16.100.90:8278/ctient/playlist.m3u8?tid=m6780c60bd34a13540795&ct=17874&tsum=06089e289a460b0685447b7656d550e3
 中天綜合,http://198.16.100.90:8278/ctizhonghe/playlist.m3u8?tid=m85005aeec85b14021104&ct=17874&tsum=69f19f4b12ab79d2ee683b28cdb1c8ca
 
-•特色,#genre#
-未知电影之旅「IPV6」,http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/PLTV/1/224/3221230435/1.m3u8
-欢快集体舞蹈「IPV6」,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/PLTV/1/224/3221231236/1.m3u8
-享受文学声音「IPV6」,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/PLTV/1/224/3221231174/1.m3u8
-LOL 全球总决赛「S13」,https://tv.iill.top//bilibili/10
-村AB·贵州,https://yang-1989.eu.org/live/huya/17455052
-斯诺克-1,https://yang-1989.eu.org/live/huya/880214
-斯诺克-2,https://yang-1989.eu.org/live/huya/880625
-UFC,https://yang-1989.eu.org/live/huya/880223
-Deluxe Lounge HD「自然」,https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9a087b26-8be4-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips&checkedby:iptvcat.com
-Red Bull TV「体育」,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-广东4k,http://113.117.74.17:8081/hls/145/index.m3u8
-CCTV 4K,http://113.117.74.17:8081/hls/144/index.m3u8
-广东卫视,http://113.117.74.17:8081/hls/140/index.m3u8
-广东经济科教,http://113.117.74.17:8081/hls/66/index.m3u8
-大湾区卫视,http://113.117.74.17:8081/hls/80/index.m3u8
-广东珠江,https://php.17186.eu.org/gdtv/web/gdzj.m3u8
-
-•埋堆堆,#genre#
+埋堆堆,#genre#
 埋堆堆1,https://yang-1989.eu.org/live/huya/23749096
 埋堆堆2,https://yang-1989.eu.org/live/huya/23735126
 埋堆堆3,https://yang-1989.eu.org/live/huya/23865152
